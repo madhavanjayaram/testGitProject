@@ -11,6 +11,7 @@ namespace testGitProject
         static void Main(string[] args)
         {
             Console.WriteLine("jayaram madhavan nair"); // code edited in github to test pull
+            Console.WriteLine("code from VS");
         }
     }
 }
