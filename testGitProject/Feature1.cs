@@ -8,6 +8,6 @@ namespace testGitProject
 {
     class Feature1
     {
-        //to be done later
+        //edit to feature 1
     }
 }
